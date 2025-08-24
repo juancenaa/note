@@ -1,4 +1,3 @@
-
 name = input("Enter your Name:")
 age = int(input("Enter your Age:"))
 height = float(input("Enter your Height (in feet):"))
@@ -15,3 +14,4 @@ print(f"Your height is {height_rounded:.2f} feet.")
 print(f"You are from {country_upper}.")
 
 print(f"Your nickname is {nickname}")
+
